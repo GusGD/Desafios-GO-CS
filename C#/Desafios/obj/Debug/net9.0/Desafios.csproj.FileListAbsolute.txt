@@ -1,0 +1,14 @@
+/home/gus/target/C#/Desafios/bin/Debug/net9.0/Desafios
+/home/gus/target/C#/Desafios/bin/Debug/net9.0/Desafios.deps.json
+/home/gus/target/C#/Desafios/bin/Debug/net9.0/Desafios.runtimeconfig.json
+/home/gus/target/C#/Desafios/bin/Debug/net9.0/Desafios.dll
+/home/gus/target/C#/Desafios/bin/Debug/net9.0/Desafios.pdb
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/Desafios.GeneratedMSBuildEditorConfig.editorconfig
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/Desafios.AssemblyInfoInputs.cache
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/Desafios.AssemblyInfo.cs
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/Desafios.csproj.CoreCompileInputs.cache
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/Desafios.dll
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/refint/Desafios.dll
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/Desafios.pdb
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/Desafios.genruntimeconfig.cache
+/home/gus/target/C#/Desafios/obj/Debug/net9.0/ref/Desafios.dll
